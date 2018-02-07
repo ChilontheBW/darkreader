@@ -100,8 +100,11 @@
             ]
         },
         {
-            "url": "docs.google.com",
-            "invert": ".jfk-palette-colorswatch"
+           "url": "docs.google.com",
+           "invert": [
+               ".jfk-palette-colorswatch",
+               ".kix-appview-editor" 
+           ]
         },
         {
             "url": "docs.microsoft.com",
