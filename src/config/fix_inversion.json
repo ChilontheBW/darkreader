@@ -68,6 +68,18 @@
             "url": "bytesloader.com",
             "invert": ".footer-distributed, .navbar-inverse"
         },
+         {
+            "url": [
+                "canvas.*.*",
+                "canvas.*"
+            ],
+            "invert": [
+                "#header",
+                ".ic-DashboardCard",
+                ".ic_DashboardCard_header_content",
+                ".ef-file-preview-header"
+            ]
+        },
         {
             "url": "dedication.pl",
             "invert": ".wwzing"
